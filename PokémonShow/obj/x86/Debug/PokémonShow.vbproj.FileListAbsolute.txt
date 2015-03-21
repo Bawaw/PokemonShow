@@ -1,0 +1,22 @@
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\PokémonShow\bin\Debug\PokémonShow.exe
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\PokémonShow\bin\Debug\PokémonShow.pdb
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\PokémonShow\bin\Debug\PokémonShow.xml
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\PokémonShow\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\PokémonShow\obj\x86\Debug\PokémonShow.Resources.resources
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\PokémonShow\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\PokémonShow\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\PokémonShow\obj\x86\Debug\PokémonShow.exe
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\PokémonShow\obj\x86\Debug\PokémonShow.xml
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\PokémonShow\obj\x86\Debug\PokémonShow.pdb
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\PokémonShow\obj\x86\Debug\PokémonShow.PokemonShow.resources
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PokémonShow\PokémonShow\obj\x86\Debug\PokémonShow.exe
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PokémonShow\PokémonShow\obj\x86\Debug\PokémonShow.xml
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PokémonShow\PokémonShow\obj\x86\Debug\PokémonShow.pdb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PokémonShow\PokémonShow\bin\Debug\PokémonShow.exe
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PokémonShow\PokémonShow\bin\Debug\PokémonShow.pdb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PokémonShow\PokémonShow\bin\Debug\PokémonShow.xml
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PokémonShow\PokémonShow\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PokémonShow\PokémonShow\obj\x86\Debug\PokémonShow.PokemonShow.resources
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PokémonShow\PokémonShow\obj\x86\Debug\PokémonShow.Resources.resources
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PokémonShow\PokémonShow\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\PokémonShow\PokémonShow\obj\x86\Debug\GenerateResource.write.1.tlog
